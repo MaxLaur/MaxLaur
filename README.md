@@ -10,7 +10,7 @@ My name's Max. I have just graduated from Concordia full stack web development B
 
 ## About me 
 
-Re-discovered coding in 2022 with the game <a href='https://danielyxie.github.io/bitburner/' target='blank'>Bitburner</a> and dove right in.
+Re-discovered coding in 2022 with the game <a href='https://danielyxie.github.io/bitburner/' target='_blank'>Bitburner</a> and dove right in.
 Now I have graduated from a full stack web development bootcamp and looking forward to continue on my journey.
 
 <!--
