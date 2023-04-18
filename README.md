@@ -17,7 +17,7 @@ My name's Max. I have just graduated from Concordia full stack web development B
 </div>
 
 - 🔭 I’m currently working on my srp project.
-- 💬 Ask me about music, sim racing or tree planting.
+- 💬 Ask me about music, pre 90's movies, sim racing or tree planting.
 - ⚡ Fun fact: I've been playing guitar since the age of 9 and I also speak french.
 
 ## About me 
