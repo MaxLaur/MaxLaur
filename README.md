@@ -7,13 +7,13 @@ My name's Max. I have just graduated from Concordia full stack web development B
 ### 🛠 Languages and Tools:
 <div height='35px'>
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="max-width: 100%;" width="40" height="40">
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg' title="CSS3" alt="CSS3" style="max-width: 100%;" width="40" height="40"/>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'/>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg'/>
-<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg'/>
-<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg' title="css3" alt="css3" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' title="html5" alt="html5" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' title="javascript" alt="javascript" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' title="nodejs" alt="nodejs" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg' title="git" alt="git" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg' title="mongodb" alt="mongodb" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg' title="express" alt="express" style="max-width: 100%;" width="40" height="40"/>
 </div>
 
 - 🔭 I’m currently working on my srp project.
