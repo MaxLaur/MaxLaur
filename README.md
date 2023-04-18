@@ -5,7 +5,7 @@
 My name's Max. I have just graduated from Concordia full stack web development Bootcamp.
 
 ### 🛠 Languages and Tools:
-<div>
+<div height='35px'>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg'/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
