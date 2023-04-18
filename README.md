@@ -6,7 +6,7 @@ My name's Max. I have just graduated from Concordia full stack web development B
 
 ### 🛠 Languages and Tools:
 <div height='35px'>
-<svg viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="max-width: 100%;" width="40" height="40">
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg'/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/>
