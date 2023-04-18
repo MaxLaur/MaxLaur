@@ -4,6 +4,18 @@
 
 My name's Max. I have just graduated from Concordia full stack web development Bootcamp.
 
+### 🛠 Languages and Tools:
+<div>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg'/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg'/>
+</div>
+
 - 🔭 I’m currently working on my srp project.
 - 💬 Ask me about music, sim racing or tree planting.
 - ⚡ Fun fact: I've been playing guitar since the age of 9 and I also speak french.
