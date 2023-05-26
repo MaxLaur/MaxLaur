@@ -16,7 +16,7 @@ My name's Max. I have just graduated from Concordia full stack web development B
 <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg' title="express" alt="express" style="max-width: 100%;" width="40" height="40"/>
 </div>
 
-- 🔭 I’m currently working on my srp project.
+- 🔭 I’m currently working on my Chiffres project.
 - 💬 Ask me about music, pre 90's movies, sim racing or tree planting.
 - ⚡ Fun fact: I've been playing guitar since the age of 9 and I also speak french.
 
