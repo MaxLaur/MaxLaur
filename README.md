@@ -7,6 +7,9 @@ My name's Max. I am currently working for Docere Health.
 ### 🛠 Languages and Tools:
 <div height='35px'>
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind.css" alt="Tailwind.css" style="max-width: 100%;" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" title="Mobx" alt="Mobx" style="max-width: 100%;" width="40" height="40">
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg' title="css3" alt="css3" style="max-width: 100%;" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' title="html5" alt="html5" style="max-width: 100%;" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' title="javascript" alt="javascript" style="max-width: 100%;" width="40" height="40"/>
