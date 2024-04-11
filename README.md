@@ -16,6 +16,8 @@ My name's Max. I am currently working for Docere Health.
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' title="nodejs" alt="nodejs" style="max-width: 100%;" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg' title="git" alt="git" style="max-width: 100%;" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg' title="mongodb" alt="mongodb" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg' title="Supabase" alt="Supabase" style="max-width: 100%;" width="40" height="40"/>
+<img src='https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original-wordmark.svg' title="Postgresql" alt="Postgresql" style="max-width: 100%;" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg' title="express" alt="express" style="max-width: 100%;" width="40" height="40"/>
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/materialui/materialui-plain.svg' title="express" alt="express" style="max-width: 100%;" width="40" height="40"/>
 </div>
