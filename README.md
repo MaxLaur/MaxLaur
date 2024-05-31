@@ -2,7 +2,7 @@
 
 <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvisualpoi.zone%2Fassets%2Fpattern%2Foriginal%2Fseyt50gses5s.jpg&f=1&nofb=1&ipt=1b7443db98c84226fd12288e7af956d2f421cd5118529d1bdd736bc6b6742894&ipo=images'/>
 
-My name's Max. I am currently working for Docere Health.
+My name's Max. I am currently working for Vertmix.
 
 ### 🛠 Languages and Tools:
 <div height='35px'>
@@ -28,7 +28,7 @@ My name's Max. I am currently working for Docere Health.
 ## About me 
 
 Re-discovered coding in 2022 with the game <a href='https://danielyxie.github.io/bitburner/' target='_blank'>Bitburner</a> and dove right in.
-After graduating from a full stack web development bootcamp I am now working for Docere Health as a fullstack web developer.
+After graduating from a full stack web development bootcamp I am now working for Vertmix as a fullstack software engineer.
 
 <!--
 **MaxLaur/MaxLaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
