@@ -28,7 +28,7 @@ My name's Max. I am currently working for Vertmix.
 ## About me 
 
 Re-discovered coding in 2022 with the game <a href='https://danielyxie.github.io/bitburner/' target='_blank'>Bitburner</a> and dove right in.
-After graduating from a full stack web development bootcamp I am now working for Vertmix as a fullstack developer.
+I am now working for Vertmix as a fullstack developer.
 
 <!--
 **MaxLaur/MaxLaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
